@@ -1,0 +1,12 @@
+#site_name,
+#app_id {
+	min-width: 300px;
+}
+
+td.uri_pattern {
+	width: 62%;
+}
+
+td.industry_targets {
+	width: 38%;
+}
